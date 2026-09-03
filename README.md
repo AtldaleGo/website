@@ -1,6 +1,6 @@
-# ATLdale AI Website
+# AtlDale_Go Website
 
-Public static website for ATLdale AI.
+Public static website for AtlDale_Go.
 
 ## Pages
 
